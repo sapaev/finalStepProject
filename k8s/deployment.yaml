@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: python-backend
-        image: kamal2107/python-backend:final
+        image: kamal2107/python-backend:v01
         ports:
         - containerPort: 8080
